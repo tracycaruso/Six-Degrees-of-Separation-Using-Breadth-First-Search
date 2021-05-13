@@ -1,3 +1,6 @@
+<img width="1229" alt="Screen Shot 2021-05-13 at 3 28 14 PM" src="https://user-images.githubusercontent.com/6024941/118190104-df573980-b3ff-11eb-8fdc-4d52ccf2b322.png">
+
+
 This project is the first assignment from Harvard’s CS50 Introduction to AI class. 
 
 Most of us have heard of the Six Degrees of Separation. The idea is that individuals are six or fewer social connections away from each other. Often Kevin Bacon is at the root of this explanation. You may have played a fun party game where you connect any actor to Kevin Bacon with six or fewer other actors via the movies in which they have collaborated. In this first challenge from Harvard, they want you to take that game to the next level. The goal is to take any two actors and connect them via the least amount of movies and co-stars possible. 

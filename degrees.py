@@ -193,6 +193,3 @@ def neighbors_for_person(person_id):
 
 if __name__ == "__main__":
     main()
-
-    # print(current_node.state == target)
-    # print('t', target, 'cn', current_node, 's', current_node.state, 'q', queue, '\n\n')
